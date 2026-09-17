@@ -79,6 +79,15 @@ Dashboard components include:
 * Exercise-induced angina analysis.
 * Feature correlation visualization.
 
+### lab_
+
+This directory has been made to do some additional experiments on data and prepare it for a good fitted model to train on. 
+
+
+* helps us to find the best model
+* helps us to preprocess the data well
+* find and merge key features which generalize well on our models BTW we have a small dataset
+
 ## Key Findings
 
 The exploratory analysis identified several patterns in this dataset:
@@ -103,3 +112,4 @@ These findings describe patterns in the dataset and should not be interpreted as
 This project demonstrates a complete exploratory data analysis workflow, from data quality assessment and statistical exploration to interactive dashboard development.
 
 It was created as part of my data analytics portfolio to improve my ability to transform raw data into meaningful insights and communicate analytical findings through visualizations.
+
