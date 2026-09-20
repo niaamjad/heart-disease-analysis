@@ -115,3 +115,19 @@ It was created as part of my data analytics portfolio to improve my ability to t
 
 ## project structure
 here our project tree will be added for a clear view 
+
+sample tree
+
+heart-disease-analysis/
+├── 01_Data
+│   ├── correlation.csv
+│   ├── heart_cleaned.csv
+│   └── heart-disease.csv
+├── 02_Python_Analysis
+│   └── heart.ipynb
+├── 03_PowerBI_Dashboard
+│   └── heartpowerbi.pbix
+├── lab_
+│   └── lab_.ipynb
+└── README.md
+
