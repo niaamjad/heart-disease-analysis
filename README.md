@@ -113,3 +113,5 @@ This project demonstrates a complete exploratory data analysis workflow, from da
 
 It was created as part of my data analytics portfolio to improve my ability to transform raw data into meaningful insights and communicate analytical findings through visualizations.
 
+## project structure
+here our project tree will be added for a clear view 
