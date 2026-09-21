@@ -118,6 +118,8 @@ here our project tree will be added for a clear view
 
 sample tree
 
+``` text
+
 heart-disease-analysis/
 ├── 01_Data
 │   ├── correlation.csv
@@ -130,4 +132,5 @@ heart-disease-analysis/
 ├── lab_
 │   └── lab_.ipynb
 └── README.md
+```
 
